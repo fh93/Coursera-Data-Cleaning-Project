@@ -2,7 +2,7 @@
 The tidy dataset contains the average of multiple features for each subject and for each activity. 
 
 ### Subject variable
-Contains the ID numbers of the subjects. There are 30 subjects on total
+Contains the ID numbers of the subjects. There are 30 subjects in total.
 
 ### Activity variable
 Contains the specific activity that is performed. There are 6 activities:
