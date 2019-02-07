@@ -18,5 +18,7 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The file run_analysis.R contains the script to create the tidy dataset from the raw data.
-The tidy dataset that results from this script can be found as "tidy.txt". 
+There are several files in this folder:
+* The file run_analysis.R contains the script to create the tidy dataset from the raw data.
+* The tidy dataset that results from this script can be found as "tidy.txt". 
+* A description of the tidy dataset can be found in the file "Codebook.md".
